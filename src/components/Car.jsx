@@ -56,7 +56,7 @@ export default function ImageSlider({ car }) {
         </main>
         <div className="mt-5 text-lg font-regular text-white flex items-center justify-between">
           <span className="mr-3 flex flex-row items-center">
-            <span className="ml-1">ETB {car.carPrice}</span>
+            <span className="ml-1">Price ETB {car.carPrice}</span>
           </span>
         </div>
       </div>
